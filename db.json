@@ -2,9 +2,9 @@
   "tasks": [
     {
       "id": 2,
-      "text": "Meeting at School",
+      "text": "Meeting in School",
       "day": "May 6th at 1:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Test Task",
@@ -13,10 +13,16 @@
       "id": 3
     },
     {
-      "text": "Complete Angular Tutorial",
-      "day": "Complete Angular Tutorial",
+      "text": "Kukua passport pics",
+      "day": "Kukua passport pics",
       "reminder": false,
       "id": 4
+    },
+    {
+      "text": "Order groceries",
+      "day": "Order groceries",
+      "reminder": false,
+      "id": 5
     }
   ]
 }

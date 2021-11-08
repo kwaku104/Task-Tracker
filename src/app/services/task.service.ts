@@ -14,7 +14,8 @@ const httpOptions = {
   providedIn: 'root'
 })
 export class TaskService {
-  private apiUrl = 'http://localhost:5000/tasks'
+  // private apiUrl = 'http://localhost:5000/tasks'
+  private apiUrl = 'https://q9j6aztyrf.execute-api.eu-west-2.amazonaws.com/dev/tasks'
 
   constructor(private http: HttpClient) { }
 
